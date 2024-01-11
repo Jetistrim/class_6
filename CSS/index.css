@@ -1,0 +1,9 @@
+label{
+    display: block;
+}
+input[type="checkbox"]{
+    accent-color: blue;
+}
+input[type="radio"]{
+    accent-color: #c92071;
+}
